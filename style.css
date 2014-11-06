@@ -1,4 +1,8 @@
 body {
   background: #eeeeee;
-  font-family: “Latin Wide”, Verdana, Arial, serif;
+  font-family: "Latin Wide"
+}
+p {
+  background: #bOc4de;
+  font-family: "Times New Roman"
 }

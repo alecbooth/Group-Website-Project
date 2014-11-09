@@ -1,9 +1,15 @@
-<style>
 body {
+<<<<<<< HEAD
   background-color: #000080;
   font-family: "Latin Wide"
   font-size: 14px
   color: #000000
+=======
+  background-color: navy;
+  font-family: "Latin Wide";
+  Font-size: 14px;
+  text-align: center;
+>>>>>>> 4f67982ceef7aad1d4c8d65276f47f8f08e01567
 }
 p {
   background: #000000;
@@ -18,4 +24,3 @@ p {
 head {
   text-align: center;
 }
-<style>

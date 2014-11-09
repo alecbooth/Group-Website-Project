@@ -1,9 +1,15 @@
 body {
   background: #eeeeee;
   font-family: "Latin Wide"
-  Font-size: 14px 
+  font-size: 14px
+  color: #000000
 }
 p {
-  background: #bOc4de;
-  font-family: "Times New Roman"
+  background: #000000;
+  color: white
+  font-family: "Impact"
+  font-size: 11px
+  border-style: solid;
+  border-width: medium
+  border-color: #C1CDC1; 
 }

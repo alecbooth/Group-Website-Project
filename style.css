@@ -9,6 +9,7 @@ p {
   font-family: "Impact";
   font-size: 11px;
   border-style: solid;
+  border-width: small;
   border-color: FFFF00; 
 }
 head {

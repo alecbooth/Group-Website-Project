@@ -13,7 +13,8 @@ p {
   border-style: solid;
   border-width: medium
   border-color: #C1CDC1; 
-  font-family: "Times New Roman";
+  font-family: "Times New Roman"
+  text-align: left;
 }
 head {
   text-align: center;

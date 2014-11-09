@@ -2,7 +2,7 @@ body {
   background-color: navy;
   font-family: "Latin Wide";
   font-size: 14px;
-  font-color: #FFFF00;
+  color: #FFFF00;
   text-align: center;
 }
 p {
@@ -11,5 +11,5 @@ p {
 }
 head {
   text-align: center;
-  font-color: #FFFF00;
+  color: #FFFF00;
 }

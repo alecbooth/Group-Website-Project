@@ -13,7 +13,5 @@ head {
   color: #FFFF00;
 }
 .noborders{
-    border-style:transparent 
-
-
+    border: none; 
 }

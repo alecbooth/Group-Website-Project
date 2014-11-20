@@ -14,11 +14,6 @@ head {
 }
 .noborders{
     border: none; 
-}.button {
-    padding: 6px;
-    text-decoration: none;
-    border: 1px solid #ccc;
-    border-radius: 4px;
 }
 .button {
     padding: 6px;

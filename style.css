@@ -1,17 +1,28 @@
 body {
-  background-color: #808080;
-  font-family: "Arial Black";
-  font-size: 14px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #FFFF00;
-  color: #eeeeee;
-  text-align: center;
+    background-color: #808080;
+    font-family: "Arial Black";
+    font-size: 14px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFF00;
+    color: #eeeeee;
+    text-align: center;
 }
 head {
-  text-align: center;
-  color: #FFFF00;
+    text-align: center;
+    color: #FFFF00;
 }
 .noborders{
-  border: none; 
+    border: none; 
+}.button {
+    padding: 6px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.button {
+    padding: 6px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
